@@ -70,3 +70,7 @@ reCaptcha is advanced third party anti-spam solution. It’s reliable anti-spam 
 To set up Google reCaptcha on NM contact forms plugin you have to gain ‘site key’ and ‘secret’ which you can do by registering your site on https://www.google.com/recaptcha/ (It’s completely free). Once you do that go, to NM Contact forms plugin settings, and enter you ‘site-key’ and ‘secret’ into the fields and hit save.
 
 After that go back to the forms page, choose to which form you want to add Google reCaptcha then simply click ‘add field’ and set field type to reCaptcha.
+
+## TODO list
+
+to be added
