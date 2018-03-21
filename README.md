@@ -1,7 +1,7 @@
 # nm-contact-forms
 Documentation for [NM Contact Forms Wordpress plugin](https://wordpress.org/plugins/nm-contact-forms/)
 
-
+Detailed WIKI [here](https://github.com/Bigloltrash/nm-contact-forms/wiki) !
 
 ## Introduction
 First off all this contact form plugin is completely free and has no premium plugin bullshit.
