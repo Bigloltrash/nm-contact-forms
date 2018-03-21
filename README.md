@@ -73,7 +73,7 @@ After that go back to the forms page, choose to which form you want to add Googl
 
 ## TODO list
 
-Custom error messages
-Auto response
-Custom email templates
-List of forms
+    Custom error messages
+    Auto response
+    Custom email templates
+    List of forms
