@@ -24,6 +24,7 @@ Following field types available:
     RECAPTCHA
 
 Other functionnalities :
+
     Define zones in the form
     Choose placeholders
     Choose if field is required
